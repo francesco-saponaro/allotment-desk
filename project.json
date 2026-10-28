@@ -1,0 +1,9 @@
+{
+  "slug": "allotment-desk",
+  "name": "Allotment Desk",
+  "company": "Staycation",
+  "description": "A hotel group's desk for the rooms and spa slots it releases to a city-stays marketplace: which dates sell out, which go unsold, and the bookings behind them.",
+  "dist": "out",
+  "test": "npm test -- --run",
+  "build": "npm run build"
+}
