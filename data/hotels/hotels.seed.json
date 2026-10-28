@@ -1,0 +1,29 @@
+[
+  {
+    "id": "vauquelin",
+    "name": "Hôtel Vauquelin",
+    "shortName": "Vauquelin",
+    "district": "Paris 5e",
+    "stars": 4,
+    "rooms": 38,
+    "facilities": ["Courtyard garden", "Breakfast room", "Late checkout"]
+  },
+  {
+    "id": "bremontier",
+    "name": "Maison Brémontier",
+    "shortName": "Brémontier",
+    "district": "Paris 17e",
+    "stars": 4,
+    "rooms": 52,
+    "facilities": ["Indoor pool", "Spa with hammam", "Restaurant"]
+  },
+  {
+    "id": "quai-rouge",
+    "name": "Le Quai Rouge",
+    "shortName": "Quai Rouge",
+    "district": "Paris 10e",
+    "stars": 3,
+    "rooms": 29,
+    "facilities": ["Rooftop bar", "Canal-side terrace"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offerId": "br-spa",
+    "date": "2026-11-11",
+    "released": 0,
+    "note": "Pool drained for its yearly check"
+  },
+  {
+    "offerId": "br-night",
+    "date": "2026-12-05",
+    "released": 0,
+    "note": "Restaurant booked for a private dinner"
+  },
+  {
+    "offerId": "vq-night",
+    "date": "2026-11-14",
+    "released": 6,
+    "note": "Group of 8 cancelled, rooms given to the marketplace"
+  },
+  {
+    "offerId": "qr-desk",
+    "date": "2026-11-11",
+    "released": 0,
+    "note": "Public holiday, no desk rooms"
+  }
+]
